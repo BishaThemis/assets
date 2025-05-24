@@ -1,0 +1,11 @@
+{
+  "name": "REGEN",
+  "symbol": "REGEN",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "REGEN is a community-driven token with a focus on environmental sustainability.",
+  "website": "",
+  "explorer": "https://etherscan.io/token/0x6B4472D6047aae634e90a8CfeBB34F4Ed430EDA7",
+  "status": "active",
+  "id": "0x6B4472D6047aae634e90a8CfeBB34F4Ed430EDA7"
+}
